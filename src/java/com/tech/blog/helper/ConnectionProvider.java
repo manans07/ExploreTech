@@ -23,7 +23,7 @@ public class ConnectionProvider {
             Class.forName("com.mysql.jdbc.Driver");
             
             /*Creating Connection Object*/
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/exploretech","root","Oncethereisacat.");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/exploretech","root","Password");
         }
             
         } catch (Exception e) {
