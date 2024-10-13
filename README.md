@@ -5,9 +5,13 @@ This project consists of a visually appealing and responsive web application, wi
 
 Technologies Used: 
 Front-end: HTML, CSS, Bootstrap
+<br>
 Back-end: Java EE (Servlets and JSP)
+<br>
 Database: MySQL
+<br>
 Data Connectivity: Java Database Connectivity (JDBC)
+
 
 Features: 
 Visually appealing and responsive front-end design.
