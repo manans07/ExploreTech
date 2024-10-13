@@ -7,7 +7,7 @@ Technologies Used:
 Front-end: HTML, CSS, Bootstrap
 Back-end: Java EE (Servlets and JSP)
 Database: MySQL
-Data Connectivity: JDBC
+Data Connectivity: Java Database Connectivity (JDBC)
 
 Features: 
 Visually appealing and responsive front-end design.
